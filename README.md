@@ -64,4 +64,3 @@ This project introduces a blockchain-powered EHR system that revolutionizes how 
 
 ---
 
-## 📁 Folder Structure (example)
